@@ -6,8 +6,8 @@ This repo is a collection of guides and tutorials and challenges that will help 
 
 > These core skills will be the basis for everything you do from here on in. It is not enough to just know what to do, you need to understand why you are doing it as well!
 
-- [An Introduction to HTML](/Foundation%20Level/An%20Introduction%20to%20HTML.md)
-- [An Introduction to CSS](/Foundation%20Level/An%20Introduction%20to%20CSS.md)
+- [An Introduction to HTML](/Foundation%20Level/Introduction%20to%20HTML.md)
+- [An Introduction to CSS](/Foundation%20Level/Introduction%20to%20CSS.md)
 
 
 ## Level One
